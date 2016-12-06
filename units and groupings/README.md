@@ -21,3 +21,10 @@ with which it has the strongest connection, in other words, its
 center of predominant economic interest. That means all units are resident
 in one and only one economy. Thus, total economy is defined as the entire set
 of resident institutional units.
+
+### Activities and Producing Units:
+
+There exists 03 types of activities:
+* principal
+* secondary
+* ancillary
