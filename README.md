@@ -27,3 +27,11 @@ This repository emphasizes on novel data source (big data), methodology, recipes
 * Consumption of fixed capital
 
 * Enterprise Statistics, bookkeeping and National Accounts
+
+# Case studies include:
+
+* Data and formats for supply and uses table (SUTs)
+
+* Quality controls (which products are consumed by which industries) for SUTs
+
+* What to do when code classification is poor
