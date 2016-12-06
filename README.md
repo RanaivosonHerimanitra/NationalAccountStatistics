@@ -4,7 +4,7 @@ This repository emphasizes on novel data source (big data), methodology, recipes
 
 # Topics covered are:
 
-* [(https://github.com/RanaivosonHerimanitra/NationalAccountStatistics/tree/master/units%20and%20groupings)](Units and groupings)
+* [https://github.com/RanaivosonHerimanitra/NationalAccountStatistics/tree/master/units%20and%20groupings)](Units and groupings )
 
 * Production Account
 
