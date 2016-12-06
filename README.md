@@ -34,4 +34,4 @@ This repository emphasizes on novel data source (big data), methodology, recipes
 
 * Quality controls (which products are consumed by which industries) for SUTs
 
-* What to do when code classification is poor
+* What to do when code classification system is poor
