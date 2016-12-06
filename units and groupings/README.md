@@ -25,6 +25,6 @@ of resident institutional units.
 ### Activities and Producing Units:
 
 There exists 03 types of activities:
-* principal
+* principal (characterized by the highest value added)
 * secondary
 * ancillary
