@@ -1,5 +1,5 @@
 # National Account Statistics:
-A framework for doing National Accounts Statistics in a low settings countries using SNA'08.
+A pragmatic approach for doing National Accounts Statistics in a low settings countries using SNA'08.
 This repository emphasizes on novel data source (big data), methodology, recipes and opportunities with a particular focus on diagnostics of information system in Madagascar.
 
 # Topics covered are:
@@ -27,5 +27,3 @@ This repository emphasizes on novel data source (big data), methodology, recipes
 * Consumption of fixed capital
 
 * Enterprise Statistics, bookkeeping and National Accounts
-
-* 
